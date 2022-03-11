@@ -1,0 +1,11 @@
+Confirmations: "Total time will be XX:XX. Do you want to ADD/SUBTRACT/SET the work time? Y/N
+Prompt: Gal nori pertraukėlės? Y/N
+Pasikeitus darbo dienai automatiškai pradeda skaičiuoti iš naujo (pagal tai, kad praėjo ilgas Idle laikotarpis, kad tarp lock ir unlock įsipaišo vidurnaktis)
+Prideti atimti praeitos dienos overtine undertime
+
+Prie Idles slotų reikia edit mygtuko. Jei dalis to laiko buvo darbui, kita ne, kad būtų galima atitinkamai pakoreaguoti
+Taip pat , Spaudžiant Add mygtuką ant tuščio Idle sloto - turėtų pridėti naują Idle slotą ir atitinkamai pakoreguoti Active ir Idle laikus statuse.
+
+Countdown funkcionalumo.
+Arba vietoje countdown'o padaryti panašiai kaip su Manual break:
+Būtų slotai, kuriuose būtų galima įrašyti atliekamo darbo pavadinimą, start, pause, stop mygtukai. Ir paskui tuos laikus įrašyti į Jira.
